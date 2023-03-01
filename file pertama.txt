@@ -1,0 +1,10 @@
+Rincian Materi Pelatihan
+
+1. HTML dan CSS
+2. JS
+3. Git-Hub
+4. UI/UX
+5. My SQL
+6. PHP
+7. Laravel
+8. API
