@@ -4,7 +4,7 @@ Rincian Materi Pelatihan
 2. JS
 3. Git-Hub
 4. UI/UX
-5. My SQL
-6. PHP
-7. Laravel
-8. API
+5. PHP My sql
+6. Laravel
+7. API
+8. Final projek
